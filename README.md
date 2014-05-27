@@ -11,6 +11,8 @@ Ever wonder why God Dammit is named God Dammit? (I'm sure you have, don't lie.) 
 How to Use God Dammit (non-sexually)
 ------------------------------------
 
+Note: This bot doesn't have many of the commands from the official and most community bots because if you have multiple bots in your cloud, it would get really messy.
+
 Command                         | Description
 ------------------------------- | -------------
 `!calc [expression]`            | Calculate an expression, example `!calc 1+1`
