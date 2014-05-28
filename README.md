@@ -19,6 +19,7 @@ Things to know:
 - Never question God Dammit
 - 22 is my favorite color
 - "Ms. Munson?" "No"
+- Mommy needs to get you a discount.
 - Sean is a bitch, a Mr. Bitch.
 
 Command                         | Description
