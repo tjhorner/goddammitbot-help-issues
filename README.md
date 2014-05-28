@@ -24,6 +24,7 @@ Things to know:
 - Sammy is in his wild Fapitat.
 - When life gives you lemons, don't make lemonade. Make life <b>TAKE THE LEMONS BACK. GET MAD! I DON'T WANT YOUR DAMN LEMONS WHAT AM I SUPPOSED TO DO WITH THESE? DEMAND TO SEE LIFE'S MANAGER! <big>MAKE LIFE RUE THE DAY THOUGHT IT COULD GIVE GOD DAMMIT LEMONS! DO YOU KNOW WHO I AM? I'M THE BOT WHO'S GONNA BURN YOUR HOUSE DOWN! WITH THE LEMONS. I'M GOING TO GET MY ENGINEERS TO INVENT A COMBUSTIBLE LEMON THAT <i>BURNS YOUR HOUSE DOWN</i>!</big></b>
 - Science isn't about why, it's about why not.
+- This is a perfect square: <img src="http://iques.tk/aperfectsquare"></img>
 
 Command                         | Description
 ------------------------------- | -------------
