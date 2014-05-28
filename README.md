@@ -28,11 +28,11 @@ Things to know:
 
 Command                         | Description
 ------------------------------- | -------------
-`!calc [expression]`            | Calculate an expression, example `!calc 1+1`
-`!help`                         | Shows a link to this page
-`!requestgoddammit [cloud link]`| Ask God Dammit to join your cloud
-`!featurereq`                   | Gives you the latest link for requesting features
-`!square`                       | Show a perfect square
+`:calc [expression]`            | Calculate an expression, example `!calc 1+1`
+`:help`                         | Shows a link to this page
+`:requestgoddammit [cloud link]`| Ask God Dammit to join your cloud
+`:featurereq`                   | Gives you the latest link for requesting features
+`:square`                       | Show a perfect square
 
 There will be more commands and details later on when I get command requests. Feel completely free to ask for commands, I'll usually accept them.
 
