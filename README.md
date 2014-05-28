@@ -30,3 +30,8 @@ Command                         | Description
 `!featurereq`                   | Gives you the latest link for requesting features
 
 There will be more commands and details later on when I get command requests. Feel completely free to ask for commands, I'll usually accept them.
+
+Feature Requests
+----------------
+
+Make an issue [here](https://github.com/GeekyGamer14/goddammitbot-help-issues/issues/new) and I will label it appropriately.
