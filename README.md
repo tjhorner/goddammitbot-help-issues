@@ -3,8 +3,8 @@ God Dammit Bot Help
 
 Welcome! This document will show you all the wonderful things God Dammit can do.
 
-God Dammit's Backstory
-----------------------
+God Dammit's Story
+------------------
 
 Ever wonder why God Dammit is named God Dammit? (I'm sure you have, don't lie.) Well, it all started in science class. I was with my friend James, we had a substitute. The sub said "If you get called by something else, please tell me." My friend then proceeded to say "My name is James but my friends call me-", suddenly he realized he forgot his homework, "GOD DAMMIT!". The sentence came out as "My name is James but my friends call me GOD DAMMIT!". Yes, the bot's profile picture is an actual picture of him and yes, I had his permission to use it.
 
