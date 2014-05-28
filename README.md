@@ -11,7 +11,15 @@ Ever wonder why God Dammit is named God Dammit? (I'm sure you have, don't lie.) 
 How to Use God Dammit (non-sexually)
 ------------------------------------
 
-Note: This bot doesn't have many of the commands from the official and most community bots because if you have multiple bots in your cloud, it would get really messy.
+This bot doesn't have many of the commands from the official and most community bots because if you have multiple bots in your cloud, it would get really messy.
+
+Things to know:
+- 3 does not exist
+- The answer to #11 is ooooooooooooooooooooooooo
+- Never question God Dammit
+- 22 is my favorite color
+- "Ms. Munson?" "No"
+- Sean is a bitch, a Mr. Bitch.
 
 Command                         | Description
 ------------------------------- | -------------
