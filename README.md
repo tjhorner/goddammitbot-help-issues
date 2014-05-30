@@ -33,6 +33,7 @@ Command                         | Description
 `:requestgoddammit [cloud link]`| Ask God Dammit to join your cloud
 `:featurereq`                   | Gives you the latest link for requesting features
 `:square`                       | Show a perfect square
+`:goddammitlove`                | It's a secret
 
 There will be more commands and details later on when I get command requests. Feel completely free to ask for commands, I'll usually accept them.
 
